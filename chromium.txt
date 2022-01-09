@@ -1,0 +1,43 @@
+
+
+chromium --content-shell-hide-toolbar --incognito --kiosk  google.com
+
+
+
+--staging ⊗ 	The command line alias and URL for the "staging" environment. ↪
+
+--disable-sync      Disables syncing browser data to a Google Account. 
+
+--disable-gpu-sandbox 
+--enable-auto-reload ⊗ 	Enable auto-reload of error pages. ↪
+--force-gpu-mem-discardable-limit-mb ⊗ 	Sets the maximum GPU memory to use for discardable caches. ↪
+
+
+--google-base-url ⊗ 	Specifies an alternate URL to use for speaking to Google. Useful for testing. ↪
+
+--no-sandbox ⊗ 	Disables the sandbox for all process types that are normally sandboxed. Meant to be used as a browser-level switch for testing purposes only. ↪
+
+
+--performance          procurar
+--single-process ⊗ 	Runs the renderer and plugins in the same process as the browser ↪
+
+
+--sync-url ⊗ 	Overrides the default server used for profile sync. ↪
+--webview-disable-safebrowsing-support ⊗ 	used to disable safebrowsing functionality in webview ↪
+
+--window-position ⊗ 	Specify the initial window position: --window-position=x,y ↪
+--window-size ⊗ 	Sets the initial window size. Provided as string in the format "800,600". ↪
+
+--feedback-server _Alternative feedback server to use when submitting user feedback
+--instant-url    URL to use for instant. If specified this overrides the url from the TemplateURL.
+
+--load-and-launch-app   Loads an app from the specified directory and launches it.
+
+
+
+
+
+
+
+
+
